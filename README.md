@@ -1,0 +1,1 @@
+# Opprett-GUI-ved-hjelp-av-Python-Tkinter
